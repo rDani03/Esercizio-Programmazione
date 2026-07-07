@@ -5,11 +5,11 @@ Traccia di Elementi di Programmazione
 Definisce una struttura in cui salvare
 
 Sviluppare in linguaggio C sottoprogrammi diversi per:
-•	Leggere le dimensioni e i valori reali di una matrice
-•	Calcolare la media di tutte le colonne e di tutte le righe della matrice
-•	Ordinare un array di strutture definite come sopra per valori della media crescente.
+•Leggere le dimensioni e i valori reali di una matrice
+•Calcolare la media di tutte le colonne e di tutte le righe della matrice
+•Ordinare un array di strutture definite come sopra per valori della media crescente.
 Ogni strutture possiede come campi: una media, un a lettera che specifica se la somma si riferisce alla colonna o alla una riga (‘r’,’c’) di una matrice, un intero che identificala riga o la colonna corrispondente
-•	Salvare l’array di strutture in un file “output.bin”
+•Salvare l’array di strutture in un file “output.bin”
 
 struct Mystruct
 {
